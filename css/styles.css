@@ -1,0 +1,52 @@
+html{
+
+}
+
+body{
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+}
+h1{
+  font-family: "Sacramento", serif;
+  font-size: 48px;
+
+}
+
+h2{
+  font-family: "Montserrat", serif;
+
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  border: 1px solid purple;
+  background-color: #D6EFED;
+
+}
+
+.middle-container{
+  margin: 1em;
+  padding: 1em;
+}
+
+
+
+
+#top-cloud{
+  position: absolute;
+  top: 250px;
+  right: 300px;
+}
+
+#bottom-cloud{
+  position: absolute;
+  top:350px;
+  left:250px;
+
+}
+
+#mountain{
+
+}
